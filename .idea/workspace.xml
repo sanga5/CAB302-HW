@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c13ce601-faee-4127-922a-9d6c76f463d8" name="Changes" comment="" />
+    <list default="true" id="c13ce601-faee-4127-922a-9d6c76f463d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Fence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Fence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Guard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Guard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/LocatableObstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/LocatableObstacle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Obstacle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/ObstacleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/ObstacleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Sensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pathFinding/BFSPathFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pathFinding/BFSPathFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pathFinding/GridPathFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pathFinding/GridPathFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pathFinding/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pathFinding/Path.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dtcrwt1HxUoHMt4KAWL7mxzyWo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,12 +48,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Unnamed.executor": "Run",
+    "Application.example.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/samuelnance/IdeaProjects/CAB302-HW",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="example" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example" />
+      <module name="CAB302-HW" />
+      <option name="PROGRAM_PARAMETERS" value="-start &quot;(0,0)&quot; -target &quot;(0,10)&quot; -g &quot;(0,1)&quot; &quot;(0,2)&quot; &quot;(0,3)&quot; -f &quot;(0,4,0,8)&quot; -s &quot;(0,5,3.5)&quot; -c &quot;(0,6,e)&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
